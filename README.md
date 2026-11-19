@@ -25,7 +25,7 @@ mobilidade reduzida e cardíacos.
 | Item | Endereço |
 |---|---|
 | API no Render | `https://rota-folego-api.onrender.com/` |
-| Front (Vercel) | `[https://SEU-FRONT.vercel.app](https://rotafolego.vercel.app/)` |
+| Front (Vercel) | `https://rotafolego.vercel.app/` |
 | GitHub | `[https://github.com/SEU-USUARIO/rota-folego-api](https://github.com/Nezio22/GS2026-ROTAFOLEGO)` | `https://github.com/juliaraalmeida77-ux/rota-folego-api` 
 | Vídeo (YouTube não listado, até 5 min) | `https://youtu.be/XXXXXXXX` |
 
