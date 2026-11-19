@@ -26,7 +26,8 @@ mobilidade reduzida e cardíacos.
 |---|---|
 | API no Render | `https://rota-folego-api.onrender.com/` |
 | Front (Vercel) | `https://rotafolego.vercel.app/` |
-| GitHub | `(https://github.com/Nezio22/GS2026-ROTAFOLEGO)` | `https://github.com/juliaraalmeida77-ux/rota-folego-api` 
+| GitHub | `(https://github.com/Nezio22/GS2026-ROTAFOLEGO)`
+| GitHub | `https://github.com/juliaraalmeida77-ux/rota-folego-api` 
 | Vídeo (YouTube não listado, até 5 min) | `https://youtu.be/XXXXXXXX` |
 
 > A API no Render (plano gratuito) "dorme" após um tempo parada. A primeira chamada pode demorar cerca de um minuto.
